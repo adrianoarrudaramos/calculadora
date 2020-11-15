@@ -1,5 +1,5 @@
 # Calculadora com Angular 10
-Treinamento Udemy "Formação Angular 10 - Márco Casale de Sousa"
+### Treinamento Udemy "Formação Angular 10 - Márco Casale de Sousa"
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
