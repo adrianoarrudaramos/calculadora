@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Calculadora
+=======
+# Calculadora com Angular 10
+>>>>>>> 3a0528b612e915ecb9d8c68dc874e8b99b0f894c
 ### Treinamento Udemy "Formação Angular 10 - Márcio Casale de Souza"
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
